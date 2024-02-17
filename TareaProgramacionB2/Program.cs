@@ -15,13 +15,13 @@ namespace TareaProgramacionB2
             //Tarea 2 programacion 
 
             Console.ForegroundColor = ConsoleColor.DarkBlue;
+            
             Console.WriteLine("*********************************");
             Console.WriteLine("*********************************");
-            Console.WriteLine("*********************************");
-            Console.WriteLine("*****1. Conversión de tipos:*****");
-            Console.WriteLine("*********************************");
+            Console.WriteLine("*****1. Conversión de Tipos:*****");
             Console.WriteLine("*********************************");
             Console.WriteLine("*********************************");
+            
             Console.ResetColor();
 
             // EJERCICIO 1.1
