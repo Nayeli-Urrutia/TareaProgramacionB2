@@ -12,6 +12,7 @@ namespace TareaProgramacionB2
     {
         static void Main(string[] args)
         {
+            //Tarea 2 programacion 
 
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("*********************************");
