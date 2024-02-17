@@ -16,7 +16,11 @@ namespace TareaProgramacionB2
 
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("*********************************");
+            Console.WriteLine("*********************************");
+            Console.WriteLine("*********************************");
             Console.WriteLine("*****1. Conversión de tipos:*****");
+            Console.WriteLine("*********************************");
+            Console.WriteLine("*********************************");
             Console.WriteLine("*********************************");
             Console.ResetColor();
 
